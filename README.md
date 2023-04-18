@@ -19,5 +19,4 @@ When you run the program, it will generate all possible permutations of the seed
 
 Note: The program will make API calls to the specified URLs to check the balance of the wallets. Make sure that you have access to the APIs and replace the placeholder URLs in the code with your own API URLs.
 
-License
-This software is licensed under the Business Source License (BSL), Version 1.1. If you use this software, you are required to pay a fee after a certain period of time. Please see the [license agreement](https://www.businesssourcelicense.com/license/bsl1.1.txt) for more information.
+
