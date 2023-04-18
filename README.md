@@ -20,3 +20,6 @@ When you run the program, it will generate all possible permutations of the seed
 Note: The program will make API calls to the specified URLs to check the balance of the wallets. Make sure that you have access to the APIs and replace the placeholder URLs in the code with your own API URLs.
 
 
+Disclaimer: This code is provided as-is, and I am not liable for any damages or issues that may arise from its use. Use this code at your own risk.
+
+This code was created for educational purposes only and should not be used for any commercial purposes without appropriate licenses and permissions.
